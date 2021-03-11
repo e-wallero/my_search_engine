@@ -22,7 +22,7 @@ and compressor class, and search engine class too.
 
 Note: To run the search engine a lda-model must be trained. No pre-trained
 model is available in this repository due to usage of licensed data.
-English Gigaword Fifth Edition source can be obtained found here:
+English Gigaword Fifth Edition source can be obtained here:
 https://catalog.ldc.upenn.edu/LDC2011T07 
 
 
